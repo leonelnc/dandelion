@@ -46,7 +46,7 @@
   <string name="pref_desc__http_proxy_load_tor_preset">Загрузить настройки прокси для Tor (Orbot)</string>
   <string name="pref_title__sub_proxy">Прокси</string>
   <string name="pref_title__proxy_enabled">Использовать прокси</string>
-  <string name="pref_desc__http_proxy_enabled">Проксировать трафик Диаспоры для обхода брандмауэров.\nМожет потребоваться перезапуск</string>
+  <string name="pref_desc__http_proxy_enabled">Проксировать трафик dandelion* для обхода брандмауэров.\nМожет потребоваться перезапуск</string>
   <string name="pref_title__http_proxy_host">Хост</string>
   <string name="pref_title__http_proxy_port">Порт</string>
   <string name="toast__proxy_disabled__restart_required">Приложению необходимо перезапуститься, чтобы отключить использование прокси</string>
@@ -55,12 +55,12 @@
   <string name="pref_desc__chrome_custom_tabs_enabled">Открывать внешние ссылки с помощью Chrome Custom Tabs. Для этого должен быть установлен Chromium или Google Chrome. \nВАЖНОЕ ЗАМЕЧАНИЕ: Chrome Custom Tabs не использует настройки прокси-серверов!</string>
   <!-- Diaspora Settings -->
   <string name="pref_title__personal_settings">Личные настройки</string>
-  <string name="pref_desc__personal_settings">Открыть настройки аккаунта Диаспоры</string>
+  <string name="pref_desc__personal_settings">Открыть настройки аккаунта diaspora*</string>
   <string name="pref_desc__manage_contacts">Управление списком контактов</string>
   <string name="pref_title__manage_tags">Управление хэштегами</string>
   <string name="pref_desc__manage_tags">Добавление и удаление хэштегов, на которые вы подписаны</string>
   <string name="pref_title__change_account">Сменить аккаунт</string>
-  <string name="pref_desc__change_account">Стереть данные локального сеанса и переключиться на другой под/аккаунт Диаспоры</string>
+  <string name="pref_desc__change_account">Стереть данные локального сеанса и переключиться на другой под/аккаунт diaspora*</string>
   <string name="pref_warning__change_account">Это удалит все файлы cookie и данные сеанса. Вы действительно хотите изменить вашу учетную запись?</string>
   <string name="pref_title__clear_cache">Очистить кэш</string>
   <string name="pref_desc__clear_cache">Очистить кэш WebView</string>

@@ -46,7 +46,7 @@
   <string name="pref_desc__http_proxy_load_tor_preset">Cargar la configuración del proxy de Tor (Orbot) HTTP Proxy</string>
   <string name="pref_title__sub_proxy">Proxy</string>
   <string name="pref_title__proxy_enabled">Activar Proxy</string>
-  <string name="pref_desc__http_proxy_enabled">Tráfico del proxy de Diaspora evadiendo el cortafuegos.\nPuede requerir reiniciar. Puede no funcionar en algunos teléfonos.</string>
+  <string name="pref_desc__http_proxy_enabled">Tráfico del proxy de dandelion* evadiendo el cortafuegos.\nPuede requerir reiniciar. Puede no funcionar en algunos teléfonos.</string>
   <string name="pref_title__http_proxy_host">Host</string>
   <string name="pref_title__http_proxy_port">Puerto</string>
   <string name="toast__proxy_disabled__restart_required">La aplicación necesita reiniciar para deshabilitar el uso de proxy</string>
@@ -55,12 +55,12 @@
   <string name="pref_desc__chrome_custom_tabs_enabled">Abrir vínculos externos con barras personalizadas de Chrome. Chromium o Google Chrome deben estar instalados para utilizar esta característica. \nNOTA IMPORTANTE: ¡ las barras personalizadas de Chrome no usan servidores proxy configurados!</string>
   <!-- Diaspora Settings -->
   <string name="pref_title__personal_settings">Configuración personal</string>
-  <string name="pref_desc__personal_settings">Abrir la configuración de tu cuenta de Diaspora</string>
+  <string name="pref_desc__personal_settings">Abre la configuración de tu cuenta de diaspora*</string>
   <string name="pref_desc__manage_contacts">Administrar tu lista de contactos</string>
   <string name="pref_title__manage_tags">Administrar Etiquetas</string>
   <string name="pref_desc__manage_tags">Agregar y eliminar las etiquetas que estas siguiendo</string>
   <string name="pref_title__change_account">Cambiar cuenta</string>
-  <string name="pref_desc__change_account">Borrar datos de la sesión local y cambiar a otro pod/cuenta de Diaspora</string>
+  <string name="pref_desc__change_account">Borrar datos de la sesión local y cambiar a otro pod/cuenta de diaspora*</string>
   <string name="pref_warning__change_account">Esto borrará todas las cookies y datos de la sesión. ¿Realmente deseas cambiar tu cuenta?</string>
   <string name="pref_title__clear_cache">Limpiar caché</string>
   <string name="pref_desc__clear_cache">Borrar caché de vista Web</string>

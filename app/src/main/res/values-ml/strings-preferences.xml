@@ -33,7 +33,6 @@
   <string name="pref_title__manage_tags">ഹാഷ്ടാഗുകളെ നിയന്ത്രിക്കൂ</string>
   <string name="pref_desc__manage_tags">താങ്കൾ പിന്തുടരുന്ന ഹാഷ്ടാഗുകളെ ചേർക്കുകയോ നീക്കുകയോ ചെയ്യൂ</string>
   <string name="pref_title__change_account">അക്കൗണ്ട് മാറ്റുക</string>
-  <string name="pref_desc__change_account">ലോക്കൽ സെഷൻ ഡാറ്റ തുടച്ചുമാറ്റി മറ്റൊരു ഡയസ്പോറ അക്കൗണ്ട്/പോഡ് തിരഞ്ഞെടുക്കുക</string>
   <string name="pref_warning__change_account">ഇത് താങ്കളുടെ കുക്കികളും സെഷൻ ഡാറ്റയും തുടച്ചുനീക്കും. താങ്കൾക്ക് അക്കൗണ്ട് മാറ്റണമെന്ന് ഉറപ്പുണ്ടോ?</string>
   <string name="pref_title__clear_cache">കാഷ് തുടച്ചുനീക്കുക</string>
   <string name="pref_desc__clear_cache">വെബ്വ്യൂ കാഷ് തുടച്ചുനീക്കുക</string>

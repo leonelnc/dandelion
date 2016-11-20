@@ -41,12 +41,17 @@
   <string name="pref_title__load_images">Wczytuj obrazy</string>
   <string name="pref_desc__load_images">Odznacz by wyłączyć wczytywanie obrazów, np. w celu oszczędzania transferu</string>
   <!-- Rotate Screen -->
+  <string name="pref_title__screen_rotation">Orientacja ekranu</string>
+  <string name="pref_desc__screen_rotation">Wybierz pożądaną orientację ekranu</string>
+  <string name="rotation_auto">Automatyczna</string>
+  <string name="rotation_portrait">Pionowa</string>
+  <string name="rotation_landscape">Pozioma</string>
   <!-- Proxy -->
   <string name="pref_title__http_proxy_load_tor_preset">Wczytaj domyślną konfigurację Tora</string>
   <string name="pref_desc__http_proxy_load_tor_preset">Wczytaj ustawienia proxy HTTP Tora (Orbot)</string>
   <string name="pref_title__sub_proxy">Serwer proxy</string>
   <string name="pref_title__proxy_enabled">Włącz serwer Proxy</string>
-  <string name="pref_desc__http_proxy_enabled">Przesyłaj ruch Diaspory przez proxy by ominąć zapory sieciowe.\nMoże wymagać restartu. Może nie działać na niektórych urządzeniach.</string>
+  <string name="pref_desc__http_proxy_enabled">Przesyłaj ruch dandelion* przez proxy by ominąć zapory sieciowe.\nMoże wymagać restartu. Może nie działać na niektórych urządzeniach.</string>
   <string name="pref_title__http_proxy_host">Host</string>
   <string name="pref_title__http_proxy_port">Port</string>
   <string name="toast__proxy_disabled__restart_required">Aplikacja musi zostać zrestartowana by wyłączyć proxy</string>
@@ -55,12 +60,12 @@
   <string name="pref_desc__chrome_custom_tabs_enabled">Otwieraj odnośniki zewnętrzne za pomocą Chrome Custom Tabs. Musisz posiadać zainstalowane Chrome lub Chromium. \nWAŻNA UWAGA: Chrome Custom Tabs nie używa serwerów proxy ustawionych w tej aplikacji!</string>
   <!-- Diaspora Settings -->
   <string name="pref_title__personal_settings">Ustawienia osobiste</string>
-  <string name="pref_desc__personal_settings">Otwórz ustawienia Twojego konta na Diasporze</string>
+  <string name="pref_desc__personal_settings">Otwórz ustawienia konta diaspora*</string>
   <string name="pref_desc__manage_contacts">Zarządzanie listą kontaktów</string>
   <string name="pref_title__manage_tags">Zarządzanie tagami</string>
   <string name="pref_desc__manage_tags">Dodaj i usuń tagi z listy śledzonych</string>
   <string name="pref_title__change_account">Zmień konto</string>
-  <string name="pref_desc__change_account">Skasuj dane sesji lokalnej i przełącz się do innego poda diaspory/konta</string>
+  <string name="pref_desc__change_account">Skasuj dane sesji lokalnej i przełącz się do innego poda diaspora*/konta</string>
   <string name="pref_warning__change_account">Operacja spowoduje usunięcie wszystkich ciasteczek i danych sesji. Jesteś pewny, że chcesz zmienić konto?</string>
   <string name="pref_title__clear_cache">Wyczyść pamięć podręczną</string>
   <string name="pref_desc__clear_cache">Wyczyść pamięć podręczną WebView</string>

@@ -29,12 +29,12 @@
   <!-- Chrome custom tabs -->
   <!-- Diaspora Settings -->
   <string name="pref_title__personal_settings">Configurações pessoais</string>
-  <string name="pref_desc__personal_settings">Abra suas configurações de usuário diáspora</string>
+  <string name="pref_desc__personal_settings">Abra suas configurações de usuário diaspora*</string>
   <string name="pref_desc__manage_contacts">Gerenciar sua lista de contatos</string>
   <string name="pref_title__manage_tags">Gerenciar Hashtags</string>
   <string name="pref_desc__manage_tags">Adicionar ou excluir as hashtags que você está seguindo</string>
   <string name="pref_title__change_account">Alterar conta</string>
-  <string name="pref_desc__change_account">Apagar dados de sessão local e mudar para outro usuário de outro Pod diáspora</string>
+  <string name="pref_desc__change_account">Apagar dados de sessão local e mudar para outro usuário de outro Pod diaspora*</string>
   <string name="pref_warning__change_account">Isto apagará todos os dados de sessão e cookies. Você quer realmente mudar sua conta?</string>
   <string name="pref_title__clear_cache">Limpar cache</string>
   <string name="pref_desc__clear_cache">Limpar o cache do WebView</string>

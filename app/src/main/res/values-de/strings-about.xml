@@ -6,7 +6,7 @@
   <string name="about_activity__title_debug_info">Debugging</string>
   <string name="fragment_debug__section_app">Anwendung</string>
   <string name="fragment_debug__section_device">Gerät</string>
-  <string name="fragment_debug__section_pod">Diaspora Pod</string>
+  <string name="fragment_debug__section_pod">diaspora* Pod</string>
   <string name="fragment_debug__section_log">Debug-Protokoll</string>
   <string name="fragment_debug__section_log_spam">Debug-Protokoll (Verbose)</string>
   <string name="fragment_debug__app_version">App Version: %1$s</string>
@@ -16,20 +16,20 @@
   <string name="fragment_debug__pod_profile_name">Pod Profil Name: %1$s</string>
   <string name="fragment_debug__pod_profile_url">Pod Domain: %1$s</string>
   <string name="fragment_debug__toast_log_copied">Debug-Protokoll in Zwischenablage kopiert</string>
-  <string name="fragment_about__about_text">DiasporaForAndroid ist dein Begleiter auf deinen Streifzügen durch das soziale Netzwerk diaspora*. Es bietet dir zusätzliche Funktionen wie nützliche Werkzeugleisten und Unterstützung für Proxyserver wie das Tor-Netzwerk.</string>
+  <string name="fragment_about__about_text">dandelion* ist dein Begleiter auf deinen Streifzügen durch das soziale Netzwerk diaspora*. Es bietet dir zusätzliche Funktionen wie nützliche Werkzeugleisten und Unterstützung für Proxyserver wie das Tor-Netzwerk.</string>
   <string name="fragment_about__contribute">Mach mit!</string>
-  <string name="fragment_about__contribute_text">DiasporaForAndroid wird frei wie in Freiheit entwickelt und folgt den Ideen des diaspora* Projektes. Wenn du mithelfen willst, nur zu! Wir sind momentan nur ein sehr kleines Team und sind froh über jede Unterstützung!</string>
+  <string name="fragment_about__contribute_text">dandelion* wird frei wie in Freiheit entwickelt und folgt den Ideen des diaspora* Projektes. Wenn du mithelfen willst, nur zu! Wir sind momentan nur ein sehr kleines Team und sind froh über jede Unterstützung!</string>
   <string name="fragment_about__contribute_button">Zum Quellcode</string>
   <string name="fragment_about__translate">Übersetze die App!</string>
   <string name="fragment_about__translate_text">Die Anwendung ist nicht in deiner Sprache verfügbar? Das kannst du ändern! Warum hilfst du uns nicht, indem du übersetzt? Wir benutzen die Plattform crowdin, um es jedem zu ermöglichen, die App zu übersetzen.</string>
   <string name="fragment_about__translate_button">Ich möchte übersetzen</string>
   <string name="fragment_about__feedback">Feedback geben!</string>
-  <string name="fragment_about__feedback_text">DiasporaForAndroid befindet sich noch in Entwicklung, wenn du also Vorschläge oder etwas anderes auf dem Herzen hast besuche doch unseren Bug Tracker und lass es uns wissen!</string>
+  <string name="fragment_about__feedback_text">dandelion* befindet sich noch in Entwicklung, wenn du also Vorschläge oder etwas anderes auf dem Herzen hast besuche doch unseren Bug Tracker und lass es uns wissen!</string>
   <string name="fragment_about__feedback_button">Fehler melden</string>
   <string name="fragment_about__spread_the_word">Anderen davon erzählen!</string>
-  <string name="fragment_about__spread_the_word_text">Erzähl deiner Familie und deinen Freunden von diaspora* und #DiasporaForAndroid! Warum bloggst du nicht über deine Erfahrungen mit der App? Wir würden gerne davon erfahren!</string>
+  <string name="fragment_about__spread_the_word_text">Erzähl deiner Familie und deinen Freunden von diaspora* und #dandelion! Warum bloggst du nicht über deine Erfahrungen mit der App? Wir würden gerne davon erfahren!</string>
   <string name="fragment_about__spread_the_word_button">Weitersagen</string>
-  <string name="fragment_about__spread_the_word_share_text">Hey! Probier mal #DiasporaForAndroid! %1$s</string>
+  <string name="fragment_about__spread_the_word_share_text">Hallo! Schau dir #dandelion an! %1$s</string>
   <!-- License & help (large amount of text) -->
   <string name="fragment_license__maintainers">Entwickler</string>
   <string name="fragment_license__maintainers_text">Diese Anwendung wird momentan entwickelt und betreut von &lt;br&gt;&lt;br&gt;%1$s</string>
