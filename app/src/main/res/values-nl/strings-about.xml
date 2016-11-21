@@ -16,7 +16,7 @@
   <string name="fragment_debug__pod_profile_name">Pod Profielnaam: %1$s</string>
   <string name="fragment_debug__pod_profile_url">Pod-domein: %1$s</string>
   <string name="fragment_debug__toast_log_copied">Tekst naar klembord gekopieerd</string>
-  <string name="fragment_about__about_text">dandelion* is de app die je helpt bij het bladeren in het diaspora* sociale netwerk. Functies als handige werkbalken en ondersteuning voor proxy servers als het Tor Network dragen bij aan een fijne gebruikerservaring.</string>
+  <string name="fragment_about__about_text">dandelion* is de app die je helpt bij het bladeren in het diaspora* sociale netwerk. Functies als handige werkbalken en ondersteuning voor proxyservers als het Tor Network dragen bij aan een fijne gebruikerservaring.</string>
   <string name="fragment_about__contribute">Code bijdragen!</string>
   <string name="fragment_about__contribute_text">dandelion* wordt vrij ontwikkeld als in Vrijheid en naar de ideeën van het diaspora*-project. Als je wilt bijdragen, ga je gang! Momenteel zijn we een klein team, dus we waarderen elk beetje steun!</string>
   <string name="fragment_about__contribute_button">Bekijk de bron</string>
