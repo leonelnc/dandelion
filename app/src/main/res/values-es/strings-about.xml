@@ -29,6 +29,7 @@
   <string name="fragment_about__spread_the_word">¡Corre la voz!</string>
   <string name="fragment_about__spread_the_word_text">¡Hable a sus amigos y familiares acerca de diaspora* y #dandelion! ¿Por qué no difunde sus experiencias? ¡Nos encantaría escucharle!</string>
   <string name="fragment_about__spread_the_word_button">Compartir la aplicación</string>
+  <string name="fragment_about__spread_the_word_share_text">¡Hey! ¡Mira #dandelion! %1$s</string>
   <!-- License & help (large amount of text) -->
   <string name="fragment_license__maintainers">Mantenimiento</string>
   <string name="fragment_license__maintainers_text">Esta aplicación está siendo desarrollada y mantenida por &lt; br &gt;&lt; br &gt;%1$s</string>
