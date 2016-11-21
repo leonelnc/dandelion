@@ -41,6 +41,7 @@
   <string name="pref_title__load_images">Cargar imágenes</string>
   <string name="pref_desc__load_images">Desactivar la carga de de imágenes a datos móviles seguros</string>
   <!-- Rotate Screen -->
+  <string name="pref_title__screen_rotation">Rotación de la pantalla</string>
   <!-- Proxy -->
   <string name="pref_title__http_proxy_load_tor_preset">Cargar Tor predeterminado</string>
   <string name="pref_desc__http_proxy_load_tor_preset">Cargar la configuración del proxy de Tor (Orbot) HTTP Proxy</string>
