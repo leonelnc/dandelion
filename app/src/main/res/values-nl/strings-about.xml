@@ -38,4 +38,6 @@
   <string name="fragment_license__license_button">GNU GPLv3+ Licentie</string>
   <string name="fragment_license__thirdparty_libs">3rd Party Bibliotheken</string>
   <string name="fragment_license__thirdparty_libs_text">De volgende bibliotheken zijn gebruikt:</string>
+  <string name="fragment_license__misc_leafpic">We zijn geïnspireerd door en namen code over van LeafPic. Bekijk het eens, het is ook vrije software!</string>
+  <string name="fragment_license__misc_leafpic_button">Ik wil graag meer weten</string>
 </resources>
