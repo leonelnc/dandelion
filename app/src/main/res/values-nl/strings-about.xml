@@ -21,5 +21,11 @@
   <string name="fragment_about__contribute_text">dandelion* wordt vrij ontwikkeld als in Vrijheid en naar de ideeën van het diaspora*-project. Als je wilt bijdragen, ga je gang! Momenteel zijn we een klein team, dus we waarderen elk beetje steun!</string>
   <string name="fragment_about__contribute_button">Bekijk de bron</string>
   <string name="fragment_about__translate">Vertaal deze App!</string>
+  <string name="fragment_about__translate_text">De app niet beschikbaar in jouw taal? Daar kun je verandering in brengen! Waarom ons niet helpen met vertalen? We gebruiken het crowdin-platform om iedereen in staat te stellen de app te vertalen.</string>
+  <string name="fragment_about__translate_button">Ik wil vertalen</string>
+  <string name="fragment_about__feedback">Feedback geven?</string>
+  <string name="fragment_about__feedback_text">dandelion* is nog in ontwikkeling, dus als je suggesties hebt of wat voor feedback dan ook, gebruik dan de bugtracker en laat het ons weten!</string>
+  <string name="fragment_about__feedback_button">Bugs melden</string>
+  <string name="fragment_about__spread_the_word">Deel het met de wereld!</string>
   <!-- License & help (large amount of text) -->
 </resources>
