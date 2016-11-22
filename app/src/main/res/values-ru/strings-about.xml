@@ -29,6 +29,7 @@
   <string name="fragment_about__spread_the_word">Расскажите друзьям!</string>
   <string name="fragment_about__spread_the_word_text">Расскажите вашим друзьям и семье о Диаспоре* и #dandelion! Почему бы вам не разместить запись о вашем опыте в блоге? Мы будем рады услышать об этом!</string>
   <string name="fragment_about__spread_the_word_button">Рассказать о приложении</string>
+  <string name="fragment_about__spread_the_word_share_text">Эй! Зацените #dandelion! %1$s</string>
   <!-- License & help (large amount of text) -->
   <string name="fragment_license__maintainers">Мейнтейнеры</string>
   <string name="fragment_license__maintainers_text">Это приложение в настоящее время разрабатывается и поддерживается следующими людьми: &lt;br&gt;&lt;br&gt;%1$s</string>
