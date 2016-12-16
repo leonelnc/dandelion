@@ -40,10 +40,9 @@
   <!-- Load images -->
   <string name="pref_title__load_images">Wczytuj obrazy</string>
   <string name="pref_desc__load_images">Odznacz by wyłączyć wczytywanie obrazów, np. w celu oszczędzania transferu</string>
-  <!-- Rotate Screen -->
+  <!-- Screen rotation -->
   <string name="pref_title__screen_rotation">Orientacja ekranu</string>
   <string name="pref_desc__screen_rotation">Wybierz pożądaną orientację ekranu</string>
-  <string name="rotation_auto">Automatyczna</string>
   <string name="rotation_portrait">Pionowa</string>
   <string name="rotation_landscape">Pozioma</string>
   <!-- Proxy -->
