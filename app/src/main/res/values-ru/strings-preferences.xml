@@ -40,10 +40,9 @@
   <!-- Load images -->
   <string name="pref_title__load_images">Загрузка изображений</string>
   <string name="pref_desc__load_images">Отключить загрузку изображений для экономии трафика</string>
-  <!-- Rotate Screen -->
+  <!-- Screen rotation -->
   <string name="pref_title__screen_rotation">Поворот экрана</string>
   <string name="pref_desc__screen_rotation">Контролировать автоматический поворот экрана</string>
-  <string name="rotation_auto">Автоматический поворот</string>
   <string name="rotation_portrait">Вертикальная ориентация</string>
   <string name="rotation_landscape">Горизонтальная ориентация</string>
   <!-- Proxy -->
