@@ -40,10 +40,9 @@
   <!-- Load images -->
   <string name="pref_title__load_images">Charger les images</string>
   <string name="pref_desc__load_images">Désactiver le chargements des images pour préserver la data mobile</string>
-  <!-- Rotate Screen -->
+  <!-- Screen rotation -->
   <string name="pref_title__screen_rotation">Rotation de l\'écran</string>
   <string name="pref_desc__screen_rotation">Rotation automatique de l\'écran</string>
-  <string name="rotation_auto">Automatique</string>
   <string name="rotation_portrait">Portrait</string>
   <string name="rotation_landscape">Paysage</string>
   <!-- Proxy -->
