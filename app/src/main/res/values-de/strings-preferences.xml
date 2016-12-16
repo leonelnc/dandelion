@@ -40,10 +40,9 @@
   <!-- Load images -->
   <string name="pref_title__load_images">Lade Bilder</string>
   <string name="pref_desc__load_images">Deaktiviere das Laden von Bildern, um den Datenverbrauch zu verringern</string>
-  <!-- Rotate Screen -->
+  <!-- Screen rotation -->
   <string name="pref_title__screen_rotation">Bildschirmrotation</string>
   <string name="pref_desc__screen_rotation">Kontrolliere die automatische Bildschirmrotation</string>
-  <string name="rotation_auto">Automatisch</string>
   <string name="rotation_portrait">Hochformat</string>
   <string name="rotation_landscape">Querformat</string>
   <!-- Proxy -->
